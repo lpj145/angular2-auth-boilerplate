@@ -9,4 +9,4 @@ npm start
 
 # Config
 
-na pastar `app/config` você poderá encontrar alguns arquivos para configuração, sinta-se a vontade para altera-los.
+na pasta `app/config` você poderá encontrar alguns arquivos para configuração, sinta-se a vontade para altera-los.
